@@ -1,0 +1,176 @@
+Algoritmo - Trocando uma lâmpada que não está ascendendo:
+
+-Início-
+
+1° Levanto do sofá
+2° Coloco a sandália
+3° Me dirijo até a cozinha 
+4° Pego uma cadeira e a lâmpada
+5° Me dirijo até a lâmpada queimada com a cadeira e a lâmpada em mãos
+6° Subo na cadeira
+7° Desrosqueio a lâmpada queimada
+8° Coloco-a em um lugar seguro
+9° Subo novamente na cadeira
+10° Encaixo a lâmpada no soquete de lâmpada
+11° Desço da cadeira
+12° Me dirijo até o interruptor
+13° Clico o botão para testar a luminosidade
+14° Me dirijo até a lâmpada queimada
+15° Pego-a e Levo uma sacola de descarte eletro-eletrônicos
+16° Coloco a cadeira no lugar
+    
+-Fim-
+
+
+Algoritmo - Deslocamento da minha casa até o Senac
+
+-Início-
+
+1° Levanto do sófa 
+2° Pego a mochila no sófa
+3° Coloco a mochila nas costas
+4° Vou até a mesa da sala
+5° Pego minha carteira onde esta meu VT
+6° Me dirijo até meu quarto
+7° Coloco meu manto
+8° Saio do meu quarto em direção a cozinha
+9° Pego a chave de casa e o meu celular
+10° Guardo a chave e o celular no bolso da calça
+11° Abro a porta da cozinha
+12° Saio da cozinha
+13° Fecho a porta da cozinha
+14° Ando pelo corredor da cozinha
+15° Desço as escadas de casa
+16° Abro o portão de entrada da casa
+17° Tranco o portão de entrada da casa
+18° Desço a rua de casa
+19° Continuo descendo até chegar no ponto de ônibus
+20° Me direciono até a fila de espera do ônibus
+21° Aguardo por último na fila do ônibus
+22° Subo no ônibus na ordem da fila
+23° Sento no banco dentro do ônibus
+24° Aguardo até chegar a estação de Trem Manoel Feio
+25° Ao chegar perto da estação levanto do banco
+26° Tiro o VT do bolso
+27° Me direciono até a catraca
+28° Passo o bilhete na catraca
+29° Guardo o bilhete único no bolso
+30° Giro a catraca
+31° Passo paro o lado de trás no ônibus
+32° Aperto no botão de "pare"
+33° Aguardo o ônibus parar no ponto da estação
+34° Após a abertura da porta do ônibus, desço dele
+35° Caminho em direção a estação de Trem
+36° Entro na estação
+37° Ando até a catraca da estação
+38° Tiro o Vt novamente
+39° Passo o bilhete na catraca
+40° Guardo o bilhete no bolso da calça
+41° Ando até as escadas rolantes
+42° Subo pelas escadas rolantes
+43° Aguardo o Trem chegar
+44° Na chegada do mêtro, entro nele
+45° Pego o meu celular do bolso 
+46° Começo a utilizar ele para me distrair 
+47° Aguardo até a última estação em pé
+48° Já na última estação guardo meu celular no bolso
+49° Saio do mêtro
+50° Me direciono para pegar o próximo trem dentro da estação
+51° Ando pelo corredor  
+52° Subo as escadas rolantes
+53° Viro para a esquerda
+54° Aguardo o próximo mêtro que me levará até a Água Branca
+55° Na chegada do Trem, entro nele
+56° Me direciono para o banco 
+57° Sento no banco do Trem
+58° Aguardo estação do mesmo
+59° Levanto do banco do mêtro
+60° Na chegada da última estação, desço do trem
+61° Atravesso a rua
+62° Caminho em linha reta por cerca de 2 minutos
+63° Até chegar no escadão
+64° Desço do escadão
+65° Me dirijo até a faixa de pedestre
+66° Caminho durante 12 minutos
+67° Por fim chego ao Senac
+
+-Fim-
+
+
+Algoritmo - Fazer a troca do pneu de um carro que estava em alta velocidade na estrada e teve o pneu furado
+
+-Início-
+
+1° Primeiramente tento encontrar um local ideal para estacionar o carro
+2° Começo a reduzir a velocidade do carro
+3° Dirigo em direção ao melhor local para estacionar o carro
+4° Estaciono o carro
+5° Ligo as luzes de emergência do carro
+6° Coloco o freio de mão no carro e o deixo em marcha ré
+7° Abro a porta de motorista do carro
+8° Fecho a porta de motorista do carro
+9° Ando em direção a traseira do carro
+10° Tiro a chave do carro do bolso
+11° Insiro a chave no porta malas do carro
+12° Giro a chave no sentido horário
+13° Abro o porta malas
+14° Pego minha caixa de ferramentas no porta malas
+15° Também pego um estepe do meu porta malas 
+16° Coloco minha caixa de ferramentas e o estepe no chão
+17° Fecho o porta malas diretamente com a chave do carro
+18° Guardo a chave do carro no bolso novamente
+19° Pego a caixa de ferramentas e o estepe do chão
+20° Deixo eles do meu lado para que eu possa utilizar no processo
+21° Abro a caixa de ferramentas
+22° Vou em direção ao pneu furado
+23° Pego o macaco hidráulico dentro da caixa de ferramentas
+24° Me certifico que o carro não esteja inclinado para utilizar o macaco hidráulico
+25° Coloco então o Macaco Hidráulico abaixo do carro para o levantar
+26° Pego uma chave de roda na minha caixa de ferramentas
+27° Começo a girar ela no sentido anti-horário para soltar a porca das rodas
+28° Continuo girando até que as porcas estejam bem afrouxadas
+29° Pego o meu estepe
+30° Posiciono ele do lado do pneu furado
+31° Removo as porcas do pneu furado por completo
+32° Coloco a chave de roda no chão ao meu lado
+33° Começo a retirar o pneu furado com as duas mãos
+34° Após a retirada, deixo o pneu furado no chão 
+35° Coloco o novo pneu (estepe) no lugar do pneu furado
+36° Em seguida, pego a chave de roda do chão
+37° E coloco as porcas na roda novamente
+38° Giro elas no sentido horário para ficarem bem ajustadas
+39° Coloco a chave de roda no chão novamente
+40° Uso o Macaco Hidráulico para baixar o carro
+41° Removo então o Macaco Hidráulico debaixo do carro
+42° Pego minha chave de roda novamente
+43° Começo a apertar as porcas novamente para que fiquem bem firmes
+44° Coloco a chave de rodas, e o macaco hidráulico dentro da caixa de ferramentas de volta
+45° Fecho a caixa de ferramentas
+46° Caminho até o porta malas do carro
+47° Pego a chave do meu bolso
+48° Abro o porta malas do meu carro com a chave
+49° Pego a minha caixa de ferramentas junto com o pneu furado e coloco-os dentro do porta malas
+50° Fecho o porta malas diretamente com a chave do carro novamente
+51° Guardo a chave do carro no meu bolso novamente
+52° Caminho até o pneu que foi reparado
+53° Verifico se a pressão do pneu está condizente com as outras rodas
+54° Após a verificação tudo ok, me dirijo para a porta do motorista do carro
+55° Abro a porta do carro
+56° Fecho a porta do carro
+57° Tiro a chave do bolso, dou ignação ao carro novamente
+58° Começo a dirigir até a oficina mecânica mais próxima para reparar o pneu por completo
+
+-Fim-
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+    
